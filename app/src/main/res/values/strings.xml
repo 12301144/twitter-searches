@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Twitter Searches</string>
-	<string name="searchURL">http://m.flckr.com/#/search/</string>
+	<string name="app_name">Twitter Finding</string>
+	<string name="searchURL">http://www.baidu.com</string>
 	<string name="tagPrompt">Tag your query</string>
 	<string name="queryPrompt">Enter Twitter search query here</string>
 	<string name="taggedSearches">Tagged Searches</string>
@@ -16,7 +16,7 @@
    <string name="shareMessage">Check out the results of this Twitter search: %s</string>
    <string name="shareSearch">Share Search to:</string>
    <string name="cancel">Cancel</string>
-   <string name="OK">OK</string>
+   <string name="OK">Yes</string>
    <string name="confirmMessage">Are you sure you want to delete the search \"%s\"?</string>
    <string name="delete">Delete</string>
 	<string name="missingMessage">Enter both a Twitter search query and a tag</string>
